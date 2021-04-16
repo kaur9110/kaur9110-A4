@@ -1,0 +1,9 @@
+{
+  "books_1": 
+	[
+		{"bookName": "Technical Communication","publisher": "Pearson","author": "John M. Lannon","opinion": "Having keen interest in this subject, this book proved to be very helpful in developing the concepts of communication."},
+		{"bookName": "Introduction To Programming","publisher": "Pearson","author": "Liang.Y.Daniel","opinion": "The best thing abouth this particular book is its simplified formatting. This book contains enough programming concepts with practical axamples."},
+		{"bookName": "Cisco Networks:Engineers Handbook of routing,switching and security","publisher": "Apress©2015","author": "Chris Carthern ,William Wilson","opinion": "This book is considered to be paragon in context of containing core networking concepts."}
+		
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "books_3": 
+	[
+		{"bookName": "Microsoft Project 2019 step by step","publisher": "Microsoft Press","author": "Cindy Lewis,Timothy Johnson,Carl Chatfield","opinion": "This book conatins updated concepts of project management. The Microsoft authors have done dedicated work in formatting this book in such a simplified content."},
+		{"bookName": "AppliedCalculus","publisher": "Wiley","author": "David Lovelock","opinion": "Maths has always been my best subject. This is the reason, I have studied this book with core interest. This book is very beneficial fo all those who are seeking basic to advanced knowledge of AppliedCalculus "},
+		{"bookName": "The C# Programmer's Study guide","publisher": "Apress©2017","author": "Ali Aasad ,Hamza Ali","opinion": "For beginner to advanced lovers of C# progrmming, this book is one of the best. The practical examples in this book are really helpful to enrich one's skillset."}
+		
+  ]
+}
